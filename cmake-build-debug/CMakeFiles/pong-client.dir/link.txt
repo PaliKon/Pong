@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/pong-client.dir/src/client_game.cpp.o -o pong-client  libcommon.a -lncurses -pthread 

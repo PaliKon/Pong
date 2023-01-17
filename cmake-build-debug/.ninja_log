@@ -1,0 +1,9 @@
+# ninja log v5
+166	255	1673795596566824467	Game	ecaf5ab6609a04ce
+3	875	1673823486451255382	CMakeFiles/Game.dir/src/network/network_object.cpp.o	2b0ac1d51f132570
+2	946	1673823486519255984	CMakeFiles/Game.dir/src/collision/dynamic_collision_box.cpp.o	c74d878be658e3
+1	1024	1673823486599256692	CMakeFiles/Game.dir/src/network/server.cpp.o	2bed8c7560db0d1a
+1	329	1673823485903250532	CMakeFiles/Game.dir/src/collision/collision_object.cpp.o	1b40c4d04bf56df7
+0	165	1673795596474823521	CMakeFiles/Game.dir/main.cpp.o	b5a98cb631664fbe
+2	1295	1673823486871259100	CMakeFiles/Game.dir/src/collision/static_collision_box.cpp.o	412b5ed43950b903
+2	986	1673823486563256373	CMakeFiles/Game.dir/src/network/client.cpp.o	8ecbea19492a74d2

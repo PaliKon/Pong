@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="glm"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\libraries\;CMake Files\libraries\glm\;CMake Files\libraries\glm\glm\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.QjJSb1QH0b/cmake-build-debug/libraries/glm"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.QjJSb1QH0b/cmake-build-debug/libraries/glm/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.QjJSb1QH0b/cmake-build-debug/libraries/glm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.QjJSb1QH0b/cmake-build-debug/libraries/glm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.QjJSb1QH0b/cmake-build-debug/libraries/glm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.QjJSb1QH0b/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.QjJSb1QH0b/libraries/glm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libraries\glm\"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.QjJSb1QH0b/libraries/glm/glm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libraries\glm\glm\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

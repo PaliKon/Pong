@@ -1,0 +1,9 @@
+/tmp/tmp.QjJSb1QH0b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.QjJSb1QH0b/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.QjJSb1QH0b/cmake-build-debug/CMakeFiles/pong-server.dir
+/tmp/tmp.QjJSb1QH0b/cmake-build-debug/CMakeFiles/pong-client.dir
+/tmp/tmp.QjJSb1QH0b/cmake-build-debug/CMakeFiles/common.dir
+/tmp/tmp.QjJSb1QH0b/cmake-build-debug/libraries/glm/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.QjJSb1QH0b/cmake-build-debug/libraries/glm/CMakeFiles/edit_cache.dir
+/tmp/tmp.QjJSb1QH0b/cmake-build-debug/libraries/glm/glm/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.QjJSb1QH0b/cmake-build-debug/libraries/glm/glm/CMakeFiles/edit_cache.dir
